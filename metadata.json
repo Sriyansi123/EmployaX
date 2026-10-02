@@ -1,0 +1,6 @@
+{
+  "name": "EmployaX",
+  "description": "Your AI-Powered Career Copilot — helping students analyze academic records, identify skill gaps, improve resumes, practice interviews, discover jobs, and build their career roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
